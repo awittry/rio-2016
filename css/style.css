@@ -1,0 +1,28 @@
+.container{
+	font-family: Helvetica;
+	background-color: #D0F5A9;
+	margin-top: 50px;
+}
+h1{
+	font-size: 70px;
+}
+.Rio{
+	margin-top: 30px;
+	margin-left: 270px;
+	margin-right: auto;
+}
+.text{
+	margin-left: 270px;
+	line-height: 18px;
+}
+.row{
+	margin-top: 30px;
+}
+.Border{
+	line-height: 30px;
+	background-color: blue;
+	border: 5px 5px 5px 5px;
+}
+.events{
+	line-height: 15px;
+}
