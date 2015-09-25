@@ -9,27 +9,35 @@ h1{
 	font-weight: bold;
 }
 .Rio{
-	margin-left: 270px;
+	margin-left: 250px;
 	margin-right: auto;
 }
 .Olympiad{
-	margin-left: 270px;
+	margin-left: 250px;
 	color: yellow;
 }
 .text1{
-	margin-left: 400px;
+	margin-left: 380px;
+	margin-top: 15px;
+	margin-bottom: 5px;
 	line-height: 26px;
 	font-size: 25px;
+	font-weight: bold;
 }
 .text2{
-	margin-left: 350px;
+	margin-left: 330px;
+	margin-top: 10px;
+	margin-bottom: 40px;
 	line-height: 26px;
 	font-size: 25px;
+	font-weight: bold;
 }
 .text3{
-	margin-left: 355px;
+	margin-left: 335px;
+	margin-top: 20px;
 	line-height: 26px;
 	font-size: 25px;
+	font-weight: bold;
 }
 .row{
 	margin-top: 30px;
@@ -48,17 +56,59 @@ h1{
 	font-size: 10px;
 }
 .boxes{
-	padding-left: 270px;
+	padding-left: 250px;
 }
 #block{
-	margin-left: 270px;
+	margin-left: 250px;
 	width: 495px;
 	height: 30px;
 	background: yellow;
 }
-#square{
-	margin-left: 270px;
+#redsquare{
+	margin-left: 745px;
+	background: red;
+	width: 60px;
+	height: 50px;
+}
+#bluesquare{
+	margin-top: -60px;
+	margin-left: 745px;
+	background: blue;
+	width: 60px;
+	height: 50px;
+}
+#blacksquare {
+	margin-top: -60px;
+	margin-left: 745px;
+	background: black;
+	width: 60px;
+	height: 80px;
+}
+#yellowsquare{
+	margin-top: -60px;
+	margin-left: 745px;
 	background: yellow;
-	width: 30px;
-	height: 30px;
+	width: 60px;
+	height: 80px;
+}
+#greensquare{
+	margin-top: -60px;
+	margin-left: 745px;
+	background: green;
+	width: 60px;
+	height: 80px;
+}
+#purplesquare{
+	margin-top: -162px;
+	margin-left: 745px;
+	background: purple;
+	width: 60px;
+	height: 110px;
+}
+#orangesquare{
+	margin-top: -130px;
+	margin-left: 745px;
+	background: orange;
+	width: 60px;
+	height: 50px;
 }
