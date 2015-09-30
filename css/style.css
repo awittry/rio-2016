@@ -2,18 +2,42 @@
 	font-family: Helvetica;
 	background-color: #D0F5A9;
 	margin-top: 50px;
+	margin-bottom: 50px;
 }
 h1{
 	font-size: 70px;
+	font-weight: bold;
 }
 .Rio{
-	margin-top: 30px;
-	margin-left: 270px;
+	margin-left: 250px;
 	margin-right: auto;
 }
-.text{
-	margin-left: 270px;
-	line-height: 18px;
+.Olympiad{
+	margin-left: 250px;
+	color: yellow;
+}
+.text1{
+	margin-left: 380px;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	line-height: 26px;
+	font-size: 25px;
+	font-weight: bold;
+}
+.text2{
+	margin-left: 330px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	line-height: 26px;
+	font-size: 25px;
+	font-weight: bold;
+}
+.text3{
+	margin-left: 335px;
+	margin-top: 20px;
+	line-height: 26px;
+	font-size: 25px;
+	font-weight: bold;
 }
 .row{
 	margin-top: 30px;
@@ -25,4 +49,66 @@ h1{
 }
 .events{
 	line-height: 15px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.countries{
+	font-size: 10px;
+}
+.boxes{
+	padding-left: 250px;
+}
+#block{
+	margin-left: 250px;
+	width: 495px;
+	height: 30px;
+	background: yellow;
+}
+#redsquare{
+	margin-left: 745px;
+	background: red;
+	width: 60px;
+	height: 50px;
+}
+#bluesquare{
+	margin-top: -60px;
+	margin-left: 745px;
+	background: blue;
+	width: 60px;
+	height: 50px;
+}
+#blacksquare {
+	margin-top: -60px;
+	margin-left: 745px;
+	background: black;
+	width: 60px;
+	height: 80px;
+}
+#yellowsquare{
+	margin-top: -60px;
+	margin-left: 745px;
+	background: yellow;
+	width: 60px;
+	height: 80px;
+}
+#greensquare{
+	margin-top: -60px;
+	margin-left: 745px;
+	background: green;
+	width: 60px;
+	height: 80px;
+}
+#purplesquare{
+	margin-top: -162px;
+	margin-left: 745px;
+	background: purple;
+	width: 60px;
+	height: 110px;
+}
+#orangesquare{
+	margin-top: -130px;
+	margin-left: 745px;
+	background: orange;
+	width: 60px;
+	height: 50px;
 }
