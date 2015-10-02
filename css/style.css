@@ -1,8 +1,48 @@
+.stripe {
+	background: yellow;
+	height: 40px;
+}
+.label {
+	text-align: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+.box {
+	height: 40px;
+}
+.g {
+	background: green;
+}
+.o {
+	background: orange;
+}
+.b {
+	background: blue;
+}
+.p {
+	background: purple;
+}
+.r {
+	background: red;
+}
+.bl {
+	background: black;
+}
+.y {
+	background: yellow;
+	margin-top: 70px;
+	margin-left: -45px;
+}
+.pi {
+	background: pink;
+}
+
 .container{
 	font-family: Helvetica;
-	background-color: #D0F5A9;
+	background-color: #E3F6CE;
 	margin-top: 50px;
 	margin-bottom: 50px;
+	padding-top: 30px;
 }
 h1{
 	font-size: 70px;
